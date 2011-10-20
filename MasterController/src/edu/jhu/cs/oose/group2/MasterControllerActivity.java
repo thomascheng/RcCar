@@ -8,6 +8,7 @@ public class MasterControllerActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //change change change!!!!!!!!!
         setContentView(R.layout.main);
     }
 }
